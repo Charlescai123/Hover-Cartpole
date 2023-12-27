@@ -1,0 +1,9 @@
+# catkin_hoverboard
+catkin_cartpole/.vscode/
+catkin_cartpole/build/
+catkin_cartpole/devel/
+catkin_cartpole/.catkin_workspace
+catkin_cartpole/src/hoverboard-driver/cmake-build-debug/
+
+# hoverboard-firmware-hack-FOC
+hoverboard-firmware-hack-FOC/build/

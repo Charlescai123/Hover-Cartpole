@@ -1,0 +1,5 @@
+<launch>
+    <!-- Include this in your launch file to change port -->
+    <node name="bnt_pub" pkg="rasp_ros" type="rasp_ros" output="screen"/>
+</launch>
+
